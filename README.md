@@ -10,7 +10,7 @@ A comprehensive email management and tracking application that helps you manage,
 ✅ **AI-Powered Replies** - Generate intelligent email responses using AI  
 ✅ **Follow-up Reminders** - Automatic reminders for important emails  
 ✅ **Real-time Notifications** - Stay updated on email activity  
-✅ **User Authentication** - Secure login with auth 2.0.
+✅ **User Authentication** - Secure login with OTP support  
 ✅ **Cloud Storage Integration** - Cloudinary for file management  
 ✅ **Email Scheduling** - Schedule emails to be sent at optimal times  
 ✅ **Logging & Analytics** - Comprehensive activity logging and insights
@@ -165,6 +165,7 @@ The application will be available at `http://localhost:5173`
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
+
 
 ## Usage
 
