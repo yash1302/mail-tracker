@@ -9,7 +9,7 @@ A comprehensive email management and tracking application that helps you manage,
 ✅ **Draft Management** - Create, save, and manage email drafts  
 ✅ **AI-Powered Replies** - Generate intelligent email responses using AI  
 ✅ **Follow-up Reminders** - Automatic reminders for important emails  
-✅ **User Authentication** - Secure login with google auth 2.0.
+✅ **User Authentication** - Secure login with google auth 2.0
 ✅ **Cloud Storage Integration** - Cloudinary for file management  
 ✅ **Logging & Analytics** - Comprehensive activity logging and insights
 
