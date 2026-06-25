@@ -21,11 +21,10 @@ A comprehensive email management and tracking application that helps you manage,
 - **Framework**: Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT + OTP
-- **Email Service**: Gmail API, NodeMailer
+- **Email Service**: Gmail API
 - **AI Integration**: Google Gemini API
 - **File Upload**: Cloudinary
 - **File Handling**: Multer
-- **Task Scheduling**: Node Cron
 
 ### Frontend
 
