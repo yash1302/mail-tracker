@@ -2,16 +2,24 @@
 
 A comprehensive email management and tracking application that helps you manage, track, and automate your email workflows with AI-powered features.
 
+## Live Demo
+
+- **Frontend:** https://mail-tracker-ui-plum.vercel.app/
+- **Backend API:** https://mail-tracker-api-i3y9.onrender.com/
+
+> **Note:** The backend is hosted on Render's free tier. If the server has been idle, the first request may take 30–60 seconds while it wakes up.
+
+---
 ## Features
 
-✅ **Gmail Integration** - Connect and manage your Gmail account directly  
-✅ **Email Tracking** - Track email opens, replies, and engagement  
-✅ **Draft Management** - Create, save, and manage email drafts  
-✅ **AI-Powered Replies** - Generate intelligent email responses using AI  
-✅ **Follow-up Reminders** - Automatic reminders for important emails  
-✅ **User Authentication** - Secure login with O-auth 2.0    
-✅ **Cloud Storage Integration** - Cloudinary for file management    
-✅ **Logging & Analytics** - Comprehensive activity logging and insights
+ **Gmail Integration** - Connect and manage your Gmail account directly  
+ **Email Tracking** - Track email opens, replies, and engagement  
+ **Draft Management** - Create, save, and manage email drafts  
+ **AI-Powered Replies** - Generate intelligent email responses using AI  
+ **Follow-up Reminders** - Automatic reminders for important emails  
+ **User Authentication** - Secure login with O-auth 2.0    
+ **Cloud Storage Integration** - Cloudinary for file management    
+ **Logging & Analytics** - Comprehensive activity logging and insights
 
 ## Tech Stack
 
@@ -195,5 +203,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For issues, questions, or suggestions, please open an issue on the GitHub repository.
+
+
 
 ---
